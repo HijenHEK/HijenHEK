@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working as a Laravel backend developer
-- 🌱 I’m currently learning AWS and Docker
+- 🌱 I’m currently learning AWS, Docker and Kubernetes
 - 📫 How to reach me: hijenhek@gmail.com or anywhere @hijenhek
 
 <div>
