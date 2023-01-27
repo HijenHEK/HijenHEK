@@ -13,8 +13,8 @@
 <br>
 
 <div>
-<img height=180 src="https://github-readme-stats.vercel.app/api?username=hijenhek&count_private=true&show_icons=true&theme=dark" />
-<img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hijenhek&theme=dark&layout=compact" />
+<img height=180 src="https://github-readme-stats-sigma-five.vercel.app/api?username=hijenhek&count_private=true&show_icons=true&theme=dark" />
+<img height=180 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hijenhek&theme=dark&layout=compact" />
 </div>
 </div>
 
