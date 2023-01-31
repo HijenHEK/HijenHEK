@@ -8,7 +8,7 @@
 <div>
 <a href="mailto: hijenhek@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="hijenhek@gmail.com" /></a>
 <a href="https://twitter.com/hijenhek" target="blank"><img src="https://img.shields.io/twitter/follow/hijenhek?logo=twitter&style=for-the-badge" alt="hijenhek" /></a>
-![](https://komarev.com/ghpvc/?username=hijenhek&style=for-the-badge	)
+  <img src="https://komarev.com/ghpvc/?username=hijenhek&style=for-the-badge" alt="hijenhek" />
 
   
 </div>
