@@ -2,8 +2,9 @@
 
 
 - 🔭 I’m currently working as a Laravel Artisan
-- 🌱 I’m currently learning AWS and Kubernetes
-- 📫 How to reach me: hijenhek@gmail.com or anywhere @hijenhek
+- 🌱 I’m always learning new stuff about the web and the cloud
+- 📫 How to reach me: hijenhek@gmail.com or anywhere <a target="_blank" style="color: #182f44; font-weight: bolder" href="https://www.google.com/search?q=hijenhek"> @HijenHek </a>
+                     
 
 <div>
 <a href="mailto: hijenhek@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="hijenhek@gmail.com" /></a>
